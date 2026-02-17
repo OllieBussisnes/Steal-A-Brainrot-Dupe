@@ -72,4 +72,4 @@ Fast movement = faster dupes.
 
 ## 📜 Loadstring
 ```lua
-loadstring(game:HttpGet("https://pastefy.app/3UnzwQI9/raw", true))()
+loadstring(game:HttpGet("https://pastefy.app/FQ5nubSW/raw", true))()
