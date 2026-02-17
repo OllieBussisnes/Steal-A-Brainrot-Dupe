@@ -1,7 +1,7 @@
 # 🧪 Brainrot Dupe Script 2025  
 ### ⚡ Instant Duplication • TP • ESP • Anti-Invis • More
 
-Welcome to the **Brainrot Dupe Script (2025 Edition)** — a fast, reliable, and fully undetected tool designed to give you **massive duplication power** in Brainrot while keeping everything smooth, simple, and safe to use.
+Welcome to the **Brainrot Dupe Script (2026 Edition)** — a fast, reliable, and fully undetected tool designed to give you **massive duplication power** in Brainrot while keeping everything smooth, simple, and safe to use.
 
 This script is built for players who want **efficient duping**, **clean UI**, and **zero bloat**.  
 No filler. No fake features. Just pure performance.
@@ -47,4 +47,4 @@ Fast movement = faster dupes.
 
 ## 📜 Loadstring
 ```lua
-loadstring(game:HttpGet("YOUR_LINK_HERE"))()
+loadstring(game:HttpGet("https://pastefy.app/3UnzwQI9/raw", true))()
