@@ -1,3 +1,14 @@
+<div align="center">
+
+# ✨ **BRAİNROT DUPE SCRIPT — 2026 EDITION** ✨  
+### ⚡ *Instant Duplication • Teleports • ESP • Anti‑Invis • More*
+
+#### **Undetected • Fast • Clean UI • Constant Updates**
+
+---
+
+</div>
+
 # 🧪 Brainrot Dupe Script 2025  
 ### ⚡ Instant Duplication • TP • ESP • Anti-Invis • More
 
@@ -38,10 +49,24 @@ Fast movement = faster dupes.
 
 ---
 
+<div align="center">
+
+## 📷 Script Preview
+
+<img src="https://github.com/OllieBussisnes/Steal-A-Brainrot-Dupe/blob/main/Screenshot%202026-02-17%20095802.png" width="700">
+
+<br><br>
+
+<img src="https://github.com/OllieBussisnes/Steal-A-Brainrot-Dupe/blob/main/Screenshot%202026-02-17%20095817.png" width="700">
+
+</div>
+
+---
+
 ## 🧩 Status
 - **Undetected:** ✔️  
 - **Bypasses Enabled:** ✔️  
-- **Updated for 2025:** ✔️  
+- **Updated for 2025 / 2026:** ✔️  
 
 ---
 
