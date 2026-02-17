@@ -49,15 +49,15 @@ Fast movement = faster dupes.
 
 ---
 
-<div align="center">
-
 ## 📷 Script Preview
 
-<img src="https://github.com/OllieBussisnes/Steal-A-Brainrot-Dupe/blob/main/Screenshot%202026-02-17%20095802.png" width="700">
+<div align="center">
+
+<img src="https://github.com/OllieBussisnes/Steal-A-Brainrot-Dupe/blob/main/Screenshot%202026-02-17%20095802.png" width="700" />
 
 <br><br>
 
-<img src="https://github.com/OllieBussisnes/Steal-A-Brainrot-Dupe/blob/main/Screenshot%202026-02-17%20095817.png" width="700">
+<img src="https://github.com/OllieBussisnes/Steal-A-Brainrot-Dupe/blob/main/Screenshot%202026-02-17%20095817.png" width="700" />
 
 </div>
 
